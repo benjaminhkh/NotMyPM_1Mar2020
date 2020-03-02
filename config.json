@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Benjamin Hu"
+  },
+  "text": {
+    "more": "Twitter Conversation on #NotMyPM, approximately 9am to 12pm on 1 March 2020. \nGroup 1 (Pink): Users | Group 2 (Light Green): Tweet | Group 3 (Light Blue): Hashtag | Group 4 (Dark Green): Link | Group 5 (Orange): Media",
+    "intro": "Twitter Conversation on #NotMyPM, approximately 9am to 12pm on 1 March 2020",
+    "title": "NotMyPM - 1 March 2020"
+  },
+  "legend": {
+    "edgeLabel": "Connection between two node types",
+    "colorLabel": "A particular node type (see groups)",
+    "nodeLabel": "A twitter entity (see groups)"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "twitter_type",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 4,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 15
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 9
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
