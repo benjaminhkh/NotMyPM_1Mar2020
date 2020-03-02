@@ -1,8 +1,10 @@
 # Network Analysis of Twitter on #NotMyPM from approximately 9am to 1pm, 1 March 2020 (Beta)
+_Tracking the conversation on Twitter on the same day as Muhyiddin Yassin was sworn in as Malaysia's 8th Prime Minister._
+
 
 Graph that shows the Twitter Network based on the tracking of hashtag #NotMyPM for roughly 4 hours on 1 March 2020, made with the [Sigmajs](http://sigmajs.org) plugin for [Gephi](http://gephi.org).
 
-**> Interactive version of the graph (Beta):** https://benjaminhkh.github.io/WuhanVirus24Jan2020/ 
+**> Interactive version of the graph (Beta):** https://benjaminhkh.github.io/NotMyPM_1Mar2020/ 
 
 ## Brief Description ## 
 
@@ -13,9 +15,9 @@ Graph that shows the Twitter Network based on the tracking of hashtag #NotMyPM f
 
 * **Group 3 (Light Blue)**: Hashtag 
 
-* **Group 4 (Dark Green)**: Link 
+* **Group 4 (Orange)**: Media
 
-* **Group 5 (Orange)**: Media
+* **Group 5 (Dark Green)**: Link 
 
 
 ## License ##
